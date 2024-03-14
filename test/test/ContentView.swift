@@ -17,6 +17,7 @@ struct ContentView: View {
         }
         .padding()
         // 첫번째 커밋
+        //lucia commit
     }
 }
 
